@@ -6,9 +6,9 @@
 # Ananconda Conda Commands
 使用 Anaconda 管理多個的 Python 環境
 
-### 安裝 Anaconda
+### 安裝 Anaconda (windows)
 根據OS，選擇合適版本 <br>
-windows安裝過程中需勾選將軟體加至"環境變數 path"
+安裝過程中需勾選將軟體加至"環境變數 path"
 (即可在 cmd 運行 conda 指令)
 
 
