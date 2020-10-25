@@ -27,7 +27,7 @@ Ananconda Conda Commands
 5. 在虛擬環境中安裝套件
    >  conda install "package_name"
 
-6 .查看當前環境下已安裝的套件
+6. 查看當前環境下已安裝的套件
    查看在conda中已經安裝的包，會顯示套件名字和版本
    >  conda list
 
