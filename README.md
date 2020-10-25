@@ -38,9 +38,8 @@ windows安裝過程中需勾選將軟體加至"環境變數 path"
 ### 導出\導入某個環境用於共享
 >  conda env export > "env_name.yaml"
 
-
-### 導入虛擬環境
 >  conda env update -f="path/env_name.yaml"
+
 
 ### 對使用 pip 套件
 >  pip freeze > "env_name.txt"
