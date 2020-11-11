@@ -22,6 +22,7 @@
 
 ### 啟動\退出虛擬環境
 >  conda activate "env_name"
+
 >  conda deactivate
 
 
